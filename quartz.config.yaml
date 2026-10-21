@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://brainwave-notesss.netlify.app/
+  baseUrl: brainwave-notesss.netlify.app
   ignorePatterns:
     - private
     - templates
